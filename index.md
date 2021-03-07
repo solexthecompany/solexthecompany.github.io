@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Solution 
-subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/itu-seokho-m4.jpg
+title: Solution & Execution. Delivered 
+subtitle: A resume-based geek labor market
+cover-img: /assets/img/KakaoTalk_20210307_010327077.jpg
 ---
 
 <br/>
@@ -11,7 +11,7 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 **Solex** is a **platform-based geek labor matching service**.
 
-Hello world!
+In development
 
 ## Contact
 
